@@ -12,6 +12,7 @@
 		E987884629CB6F4200E23B05 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E987884529CB6F4200E23B05 /* Preview Assets.xcassets */; };
 		E987884D29CB708000E23B05 /* ViewModifireBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E987884C29CB708000E23B05 /* ViewModifireBootCamp.swift */; };
 		E987884F29CB7BFD00E23B05 /* ButtonStyleBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E987884E29CB7BFD00E23B05 /* ButtonStyleBootcamp.swift */; };
+		E987885129CCCE3100E23B05 /* AnyTransitionBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E987885029CCCE3100E23B05 /* AnyTransitionBootCamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		E987884529CB6F4200E23B05 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E987884C29CB708000E23B05 /* ViewModifireBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModifireBootCamp.swift; sourceTree = "<group>"; };
 		E987884E29CB7BFD00E23B05 /* ButtonStyleBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStyleBootcamp.swift; sourceTree = "<group>"; };
+		E987885029CCCE3100E23B05 /* AnyTransitionBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnyTransitionBootCamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				E987883E29CB6F4000E23B05 /* MasterSwiftUIApp.swift */,
 				E987884C29CB708000E23B05 /* ViewModifireBootCamp.swift */,
 				E987884E29CB7BFD00E23B05 /* ButtonStyleBootcamp.swift */,
+				E987885029CCCE3100E23B05 /* AnyTransitionBootCamp.swift */,
 				E987884229CB6F4200E23B05 /* Assets.xcassets */,
 				E987884429CB6F4200E23B05 /* Preview Content */,
 			);
@@ -142,6 +145,7 @@
 			files = (
 				E987884F29CB7BFD00E23B05 /* ButtonStyleBootcamp.swift in Sources */,
 				E987884D29CB708000E23B05 /* ViewModifireBootCamp.swift in Sources */,
+				E987885129CCCE3100E23B05 /* AnyTransitionBootCamp.swift in Sources */,
 				E987883F29CB6F4000E23B05 /* MasterSwiftUIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
